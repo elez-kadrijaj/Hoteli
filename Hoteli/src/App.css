@@ -12,3 +12,7 @@ Header ul{
 Header li{
   margin-left: 5px;
 }
+img{
+  width: 60em;
+  height: 30em;
+}
