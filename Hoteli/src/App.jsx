@@ -9,7 +9,9 @@ function App() {
     <>
       <Header/>
       <img src={logo} alt="Logo" />
+      <h1>Hello</h1>
       <Footer/>
+      
     </>
     
   )
