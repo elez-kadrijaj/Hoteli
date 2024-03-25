@@ -8,6 +8,8 @@ function App() {
   return (
     <>
       <Header/>
+      <img src={logo} alt="Logo" />
+      <Footer/>
     </>
     
   )
